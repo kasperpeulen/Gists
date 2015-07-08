@@ -16,6 +16,6 @@
 [submodule "angular2_component"]
 	path = angular2_component
 	url = https://gist.github.com/kasperpeulen/5a0e89c90c8a732aa744
-[submodule "angular2_if"]
-	path = angular2_if
-	url = https://gist.github.com/dd353c3d95b2da3dd74b
+[submodule "angular2_ngif"]
+	path = angular2_ngif
+	url = https://gist.github.com/kasperpeulen/dd353c3d95b2da3dd74b
