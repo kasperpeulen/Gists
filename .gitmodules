@@ -4,3 +4,6 @@
 [submodule "angular2_1"]
 	path = angular2_1
 	url = https://gist.github.com/kasperpeulen/96e1da5a9dcc1d25dfcf
+[submodule "angular2_2"]
+	path = angular2_2
+	url = https://gist.github.com/kasperpeulen/eda4ea84e05c3a241b37
