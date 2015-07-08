@@ -13,3 +13,6 @@
 [submodule "angular2_twowaybinding"]
 	path = angular2_twowaybinding
 	url = https://gist.github.com/kasperpeulen/8b288fc737b7069d04eb
+[submodule "angular2_component"]
+	path = angular2_component
+	url = https://gist.github.com/kasperpeulen/5a0e89c90c8a732aa744
