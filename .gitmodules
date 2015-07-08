@@ -1,0 +1,6 @@
+[submodule "mdl_1"]
+	path = mdl_1
+	url = https://gist.github.com/kasperpeulen/fa2c0825619512750c86
+[submodule "angular2_1"]
+	path = angular2_1
+	url = https://gist.github.com/kasperpeulen/96e1da5a9dcc1d25dfcf
