@@ -7,3 +7,6 @@
 [submodule "angular2_2"]
 	path = angular2_2
 	url = https://gist.github.com/kasperpeulen/eda4ea84e05c3a241b37
+[submodule "angular2_ngfor"]
+	path = angular2_ngfor
+	url = https://gist.github.com/1779cb03472912a1359e.git
