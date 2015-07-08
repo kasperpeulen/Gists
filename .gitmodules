@@ -9,4 +9,7 @@
 	url = https://gist.github.com/kasperpeulen/eda4ea84e05c3a241b37
 [submodule "angular2_ngfor"]
 	path = angular2_ngfor
-	url = https://gist.github.com/1779cb03472912a1359e.git
+	url = https://gist.github.com/kasperpeulen/1779cb03472912a1359e
+[submodule "angular2_twowaybinding"]
+	path = angular2_twowaybinding
+	url = https://gist.github.com/kasperpeulen/8b288fc737b7069d04eb
