@@ -19,3 +19,6 @@
 [submodule "angular2_ngif"]
 	path = angular2_ngif
 	url = https://gist.github.com/kasperpeulen/dd353c3d95b2da3dd74b
+[submodule "stagexl_vector"]
+	path = stagexl_vector
+	url = https://gist.github.com/5cd660b5088311c64872.git
